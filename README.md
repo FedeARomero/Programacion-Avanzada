@@ -5,3 +5,4 @@
   - TP4: [Coloreo de Grafos](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Trabajos%20Practicos/TP4)
 ## Taller
   - [Desafios](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Taller/Desafios)
+  - [Patrones de Diseño](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Taller/Patrones%20de%20Dise%C3%B1o)
