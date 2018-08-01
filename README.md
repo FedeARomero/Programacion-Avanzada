@@ -6,3 +6,19 @@
 ## Taller
   - [Desafios](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Taller/Desafios)
   - [Patrones de Diseño](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Taller/Patrones%20de%20Dise%C3%B1o)
+  
+  ## Contenidos
+   - [Monticulo](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Contenido%20de%20la%20Materia/Monticulo)
+   - [Programacion Estatica y Dinamica](https://github.com/FedeARomero/Programacion-Avanzada/tree/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica)
+     - [Combinactorio](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/Combinatorio.java) 
+       - [Estatico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/CombinatorioEstatico.java) 
+       - [Dinamico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/CombinatorioDinamico.java) 
+     - [Factorial](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/Factorial.java)
+       - [Estatico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/FactorialEstatico.java)
+       - [Dinamico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/FactorialDinamico.java)
+     - [Fibonacci](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/Fibonacci.java)
+       - [Estatico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/FibonacciEstatico.java)
+       - [Dinamico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/FibonacciDinamico.java)
+     - [Pascal](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/Pascal.java)
+       - [Estatico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/PascalEstatico.java)
+       - [Dinamico](https://github.com/FedeARomero/Programacion-Avanzada/blob/master/Contenido%20de%20la%20Materia/Programacion%20Estatica%20y%20Dinamica/src/paquete/PascalDinamico.java)
